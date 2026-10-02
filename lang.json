@@ -1,6 +1,6 @@
 {
   "english": {
-    "M3U8_URL": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105545/ZeeTeluguHDELE/index.m3u8?hdnea=st=1790794867~exp=1790795167~acl=*~id=56f0502b-5ade-458a-8f7e-8e8a651f793b~hmac=6cd14995e88ff51351d095b4d202d3bd9e400f8a18c091767dbc8456a97f3864&originpath=/linear/hls/pb/event/c5sgyUOqSDSDUzovvmBwAA/stream/b5d34459-e741-4909-8eb9-f91971e46d83:SIN/master.m3u8",
+    "M3U8_URL": "https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tel-2026/f129670ca03b4bb988c841f9bbdce777/index.m3u8?aws.manifestfilter=video_height:0-1080&hdnea=exp=1790970331~data=ip%3dQeaXH2py6HCdx70Qup9jAd-userid%3dHo9Hg5aYa4oS5aNjEPH2DQD4Q6zuYKCqwAl7b5KCVqF4-did%3dzaHCvlbfiAbu22QFVLHz5wot2ADUpuW1nbkdAL7BCeSu-cc%3din-bl%3djhs-sp%3dHotstarBundle-ctype%3dshow_live-de%3d6-pl%3dweb-ap%3d26.09.18.0-ut%3dpaid-ttl%3d1800-type%3dpaid-~hmac=3b641447abedd5a69ec7e84b9897ecd73984501f2cc2b46cbb2fa91af9af2075",
     "auth": {
   "url": "https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tel-2026/f129670ca03b4bb988c841f9bbdce777/index.m3u8?aws.manifestfilter=video_height:0-1080&hdnea=exp=1790970331~data=ip%3dQeaXH2py6HCdx70Qup9jAd-userid%3dHo9Hg5aYa4oS5aNjEPH2DQD4Q6zuYKCqwAl7b5KCVqF4-did%3dzaHCvlbfiAbu22QFVLHz5wot2ADUpuW1nbkdAL7BCeSu-cc%3din-bl%3djhs-sp%3dHotstarBundle-ctype%3dshow_live-de%3d6-pl%3dweb-ap%3d26.09.18.0-ut%3dpaid-ttl%3d1800-type%3dpaid-~hmac=3b641447abedd5a69ec7e84b9897ecd73984501f2cc2b46cbb2fa91af9af2075",
   "origin": "https://live09p.hotstar.com",
