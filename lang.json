@@ -9,5 +9,16 @@
   "localStorage": {},
   "sessionStorage": {}
 }
+  },
+  "hindi": {
+    "M3U8_URL": "https://live12p.hotstar.com/hls/live/2027118/inallow-indvswi-2026/hin/1540080158/15mindvrm015e1faba10c98447a9406b30a7bc84bf903october2026/master_ap.m3u8?a=ns&hdnea=exp=1791019092~acl=%2fhls%2flive%2f2027118%2finallow-indvswi-2026%2fhin%2f1540080158%2f15mindvrm015e1faba10c98447a9406b30a7bc84bf903october2026%2fmaster_ap%2a~data=ip%3dXueKFOPWhhIS31Sfh4hxOj-userid%3dHo9Hg5aYa4oS5aNjEPH2DQD4Q6zuYKCqwAl7b5KCVqF4-did%3dwI9N5QDtbaUePu1O2wRuwRrtn16YVUBy0Jq9zeG9ekAz-cc%3din-bl%3djhs-sp%3dHotstarBundle-ctype%3dsport_live-de%3d6-pl%3dweb-ap%3d26.09.18.0-ut%3dpaid-ttl%3d1800-type%3dpaid-~hmac=0e497b2c2c2150ce229d24e9893c5b6cf26874994fea8d017e42fabee3bdf90d",
+    "auth": {
+  "url": "https://live12p.hotstar.com/hls/live/2027118/inallow-indvswi-2026/hin/1540080158/15mindvrm015e1faba10c98447a9406b30a7bc84bf903october2026/master_ap.m3u8?a=ns&hdnea=exp=1791019092~acl=%2fhls%2flive%2f2027118%2finallow-indvswi-2026%2fhin%2f1540080158%2f15mindvrm015e1faba10c98447a9406b30a7bc84bf903october2026%2fmaster_ap%2a~data=ip%3dXueKFOPWhhIS31Sfh4hxOj-userid%3dHo9Hg5aYa4oS5aNjEPH2DQD4Q6zuYKCqwAl7b5KCVqF4-did%3dwI9N5QDtbaUePu1O2wRuwRrtn16YVUBy0Jq9zeG9ekAz-cc%3din-bl%3djhs-sp%3dHotstarBundle-ctype%3dsport_live-de%3d6-pl%3dweb-ap%3d26.09.18.0-ut%3dpaid-ttl%3d1800-type%3dpaid-~hmac=0e497b2c2c2150ce229d24e9893c5b6cf26874994fea8d017e42fabee3bdf90d",
+  "origin": "https://live12p.hotstar.com",
+  "timestamp": "2026-10-03T09:10:36.999Z",
+  "cookies": "_abck=E1FEFEBA8FD36017F0850E1DD9D068AE~-1~YAAQXnxBF+O6Dt6gAQAAEA8EARDEDfpG7JIwjuwmT9rmRCKkQgCKOH6koVi6NhCwQvTbnxdTbWS2KExn23+9RSbLGCB39YPZiaS2XCiTYpPorjGOOhYLdSDu5yrVyDZE+JcKiRPkdX/C4Fp40Y6jSq7YrxlhVP//HR5TEi8Us6JDjkAQNmXrhVISElHbkyNvvu0woNk3fOEtYhgKgLM+PIeZIy8R1XuwMHUgH1+a0rLhDYlVMaNgRlB5PxRqzDgSfiUFhnST9KS7ueCsxNONrfL1DPLvfRd2ZQVhsiX5SQRFNqIlxlrBdZZmW+ilgofkAAEqKeGpKFBwPGO7Gk7DU+x9uPKyKKJ8l27lrX0FJWatWGuLXFKvwSJFurgpAcF3iZlZZEfnU9hIjB1KeN8dD4Rg4q+GC77YjsMyTralw531EvtxyiSUNCQeiPBDOpetPik9VfVOoHpm+WkmwKRP9Mv0GTV9RLaSuvREw6TbwtRknWPo+PYY5xBC9Jk9tlM=~-1~-1~-1~-1~-1; bm_sz=7B92607217133F70EDE39726B885376B~YAAQXnxBFxtRD96gAQAAY8oGAQEuGY560XQ9AHMEPYYYtCuWbyedl9ICPcknVBbTUeBg8bBwmrzy0FH/NjReiZw8V1idnHs58BC/VLuRtJcQkslp1jdDgSkxLPGGlpuFMcl2wlrm9CsovRENmBXn8PxvDKIKTd7tKb58EJd2YQ/hEO2CKuwl+dBi4WZXVDq/c/lnk92WWiO4PKUDvT13emyPre6GFfO4GtMzU7cB5NOHge0SDWp5wK/Kxv5K7D2/2r3PYij2u647vwXwff+CCnIZLzG0EEB2gp0h7rnLrz2E4Hxe9MFyJOyowjSdsQ4M68/J0H3o/HVsCaSCqm6ffl4slIO7iuTQTx3U/gpQLBWzPrnzHx9bts2wnRj5vft4NYUgoOqtCkqiV24JbP0Rfj0YXqRokjQg/3ChQg==~3294531~3224886; hdntl=exp=1791020399~acl=/hls/live/2027118/inallow-indvswi-2026/hin/1540080158/15mindvrm015e1faba10c98447a9406b30a7bc84bf903october2026/master_ap*~data=ip=XueKFOPWhhIS31Sfh4hxOj-userid=Ho9Hg5aYa4oS5aNjEPH2DQD4Q6zuYKCqwAl7b5KCVqF4-did=wI9N5QDtbaUePu1O2wRuwRrtn16YVUBy0Jq9zeG9ekAz-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=web-ap=26.09.18.0-ut=paid-ttl=1800-type=paid-raf=1791019199-~hmac=98c672eeddbadc7d1282b5981187ad2b66c547ef7d8dc11782e783af593d1298",
+  "localStorage": {},
+  "sessionStorage": {}
+}
   }
 }
