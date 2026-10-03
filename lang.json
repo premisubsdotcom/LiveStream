@@ -22,7 +22,7 @@
 }
   },
   "english": {
-    "M3U8_URL": "https://abgonbgaaaaaaaampawhoeukzrtdi.live-cf.cdn.hotstar.com/hls/live/2027101/inallow-indvswi-2026/eng/1540080158/15mindvrm015e1faba10c98447a9406b30a7bc84bf903october2026/master_ap.m3u8?a=ns&ttl=86400&hdnea=exp=1791023564~acl=/hls/live/2027101/inallow-indvswi-2026/eng/1540080158/15mindvrm015e1faba10c98447a9406b30a7bc84bf903october2026/master_ap~ttl=1800~type=paid~data=ip=XueKFOPWhhIS31Sfh4hxOj-userid=Ho9Hg5aYa4oS5aNjEPH2DQD4Q6zuYKCqwAl7b5KCVqF4-did=wI9N5QDtbaUePu1O2wRuwRrtn16YVUBy0Jq9zeG9ekAz-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=web-ap=26.09.18.0-ut=paid-~hmac=350e789af003e92e008ecb5fdb5ecbff9bb65e46897ae1b57a7c571811d5c0c0&Expires=1791023564&Signature=ra3B4i4rfNxekZgwxJN3-4fQUh86E9E054dhDY6JY0qW-Fes2UpbqVUwrwH4VuK5VTTLHPM7COjuu7h-HLuhN~qCvQ-fIzYk288bx6MryoZC8yEEsWQWWp~90MoE~O7n5qwlZmoCZ-fuU-D3m60ed1IET9w29fkjX56sEf5MeLnwkI2ZxifQ9EaUhS4k9TOlmETq6Cs~isP0wJ2UFAtS-FDEWm0bTZqjrSZ-QSlHPAuByhBcj8VvBlnXef~sx0~t~zDz4mJXChWWseQ9rx2gclr~WqOrpfiS-oPk7AAZBVNy1cZJ5miXyjv~8yy~1dk-i6up96z2-9BBP39P41-gPQ__&Key-Pair-Id=APKAJC3ILMJXG4AINKJA",
+    "M3U8_URL": "https://live11p.hotstar.com/hls/live/2027101/inallow-indvswi-2026/eng/1540080158/15mindvrm015e1faba10c98447a9406b30a7bc84bf903october2026/master_apm_720_3.m3u8",
     "auth": {
   "url": "https://live11p.hotstar.com/hls/live/2027101/inallow-indvswi-2026/eng/1540080158/15mindvrm015e1faba10c98447a9406b30a7bc84bf903october2026/master_apm_720_3.m3u8",
   "origin": "https://live11p.hotstar.com",
