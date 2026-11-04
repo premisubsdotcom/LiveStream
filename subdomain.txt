@@ -1,5 +1,4 @@
-admin.gradz.in:93.127.143.66:10061
-api.gradz.in:93.127.143.66:10076
+admin.gradz.in:93.127.143.66:10076
 benzxd.gradz.in:93.127.143.66:10070
 mylord.gradz.in:93.127.143.66:10071
 ronak.gradz.in:93.127.143.66:10072
